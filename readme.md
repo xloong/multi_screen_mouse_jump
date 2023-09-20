@@ -26,6 +26,10 @@ Provide convenience for friends with carpal tunnel syndrome and tenosynovitis
 用win键来设置快捷键主要不想有冲突，至于使用起来按键多，麻烦的问题，我是用鼠标多余的功能键映射快捷键，使用鼠标的时候一键就触发了；使用触摸板的时候，也近一些  
 Using the win key to set shortcut keys is mainly to avoid conflicts. As for the troublesome problem of having too many buttons, I used the redundant function keys of the mouse to map shortcut keys, which were triggered with just one click when using the mouse; When using the touchpad, it is also closer
 
+之前触摸板的三指手势设置的是 power toys 的 鼠标跳转，现在把一部分手势换成这个快捷键，触摸板用起来更丝滑了。至于为什么不继续用 power toys ，从那个缩略图显示，再到点击缩略图，感觉太拖沓了，不如直接一键跳转来的爽利。  
+Previously, the three finger gestures on the touchpad were set to the mouse jump of power toys. Now, some of the gestures have been replaced with this shortcut key, making the touchpad smoother to use.
+As for why not continue using Power Toys, from the thumbnail display to clicking on the thumbnail, it feels too slow, so it's better to just jump to it with one click.
+
 跳转后会自动激活鼠标所在的窗口，方便直接操作。  
 After jumping, the window where the mouse is located will be automatically activated, making it convenient for direct operation.
 
