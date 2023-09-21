@@ -22,9 +22,9 @@ init()
 ; Adding Actions or Events to a Specific Display
 ; The corresponding execution function is at the end
 ; ###################################################
-monitors[1].on_before_jump := Func("on_before_jump1")
+; monitors[1].on_before_jump := Func("on_before_jump1")
 ; ; monitors[1].on_after_jump := Func("on_after_jump1")
-monitors[2].on_jump_in := Func("on_jump_in2")
+; monitors[2].on_jump_in := Func("on_jump_in2")
 
 
 ; ###################################################
